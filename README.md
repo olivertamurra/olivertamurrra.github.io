@@ -1,3 +1,3 @@
 # olivertamurrra.github.io
  
-https://olivertamurra.github.io/linkpage.html
+https://olivertamurra.github.io/linkpage.html/
